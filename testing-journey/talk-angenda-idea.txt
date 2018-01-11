@@ -1,0 +1,52 @@
+my journey in testing
+
+testing is an automation to make sure your programm works properly
+sounds simple but it's not.
+It's more a journey
+
+Why testing uncel bob
+- have responcibility
+- no regulation from law yet
+
+Where did I start at my first company
+- no automated testing
+- testen as clicking throughthe most important app featuers
+- the client was the real tester
+
+[More s short screen animation with an simple record creation and an error page (better erros would be nice)]
+
+In new york
+- learning ruby
+- learning tdd
+- clean code
+
+[simple test example from maybe railsbook]
+
+Why testing is good
+- have faith in your code during refactoring
+- no need to click throughyour app manually
+
+But now so many big words
+- tdd
+- integration tests
+- unit tests
+- feature tests
+
+- Reading reading Reading
+
+[pocket list screenshot]
+
+One thing I still got confused it tdd and bdd
+
+- talk with snuggsi
+
+[example of an bdd code snippet]
+
+Now at shipcloud
+thanks to Doro
+
+understanding of spy's and mocks
+
+[sidekiq does stuff]
+
+testing the call not the result
